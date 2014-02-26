@@ -7,7 +7,7 @@ EAGLE sources.  Open Source / Open Hardware (CC-BY-SA-3.0). You can order the PC
 
 ## Parts
 
-	C1: 2.2pF 0805
+	C1: 1pF 0805
 	L1, L2: do not populate
 	C2: 4.7uF 0805
 	C3: 100nF 0805
